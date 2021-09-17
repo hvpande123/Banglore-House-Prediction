@@ -8,7 +8,7 @@ after that, Using Html,Css and JS created a webpage on which we can run and test
 
 How to run?
 step-1) Clone this repo
-Step 2) extract and open folder with 'cmd'
+Step 2) extract and open folder Server> 'cmd'
 step 3) type "python server.py"
 step 4) open client>app.html
 
