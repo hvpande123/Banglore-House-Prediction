@@ -1,7 +1,7 @@
 # Banglore-House-Prediction
 
 AIM- Banglore House Prediction using Data-Set
-In this, i've Created a Data Science project of hose price prediction of Banglore (almost all areas).
+In this, i've Created a Data Science project of house price prediction of Banglore (almost all areas).
 In this project I've created a python code which containing ML algorithm, Numpy, Pandas and matplotlib on the dataset of Banglore house prices.
 
 after that, Using Html,Css and JS created a webpage on which we can run and test our program.
